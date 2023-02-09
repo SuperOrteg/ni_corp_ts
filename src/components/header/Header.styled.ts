@@ -46,7 +46,7 @@ export const HeaderLink = styled(Link)`
 export const HeaderLogo = styled(Link)`
   text-decoration: none;
   font-size: 28px;
-  font-weight: 900;
+  font-weight: 800;
 
   @media screen and (min-width: 480px) {
     font-size: 36px;
